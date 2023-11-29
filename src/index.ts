@@ -1,7 +1,7 @@
 import express from 'express';
 import { Player } from './Player';
 
-const VERSION = "dont fold";
+const VERSION = "just pairs";
 
 const app = express();
 const player = new Player();
