@@ -13,7 +13,9 @@
     },
     "exclude": [
         "out/*",
-        "typings",
-        "node_modules"
+        "node_modules",
+        "jest.config.js",
+        "src/*.test.ts",
+        "src/*.spec.ts",
     ]
 }
